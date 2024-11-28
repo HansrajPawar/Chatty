@@ -9,3 +9,4 @@ Highlights:
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client!
 
+[Limk](https://bit.ly/hp-chatty)
